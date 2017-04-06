@@ -1,0 +1,4 @@
+language: objective-c  
+ xcode_sdk: iphonesimulator  
+ xcode_project: MQSimpleDataSource/MQSimpleDataSource.xcodeproj  
+ xcode_scheme: MQSimpleDataSource
